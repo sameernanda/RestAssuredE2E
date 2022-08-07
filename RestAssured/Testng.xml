@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="RestAssured Suite">
+  <test name="Test Rest 1">
+    <classes>
+       <class name="getExamples.NonBDDStyleGETRequest"/>
+       <class name="getExamples.BDDStyleGETRequest"/>
+    </classes>
+     
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
